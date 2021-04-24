@@ -1,0 +1,8 @@
+
+./principal < test01.in
+
+Guardar la salida en un archivo
+./principal < test01.in > test01.sal
+
+Comando en la consola de linux para comparar dos archivos
+diff test01.out test.01.sal
